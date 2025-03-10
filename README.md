@@ -40,6 +40,10 @@
 ## 🖥️ TypeScript 
 - [TS-doc] --- (https://www.typescriptlang.org/) - مستندات رسمی TS
 
+- ## 🖥️ PWA
+- [TS-doc] --- (https://web.dev/explore/progressive-web-apps) - مستندات رسمی PWA
+- [learn-PWA] --- (https://codeyad.com/course/panel-2105)
+
 
 ## 🖥️ Back-End & Databases  
 - [Python] --- (https://codeyad.com/course/panel-2003) دوره آموزشی
